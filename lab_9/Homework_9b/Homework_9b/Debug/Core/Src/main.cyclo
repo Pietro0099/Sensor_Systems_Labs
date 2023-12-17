@@ -1,0 +1,11 @@
+../Core/Src/main.c:90:6:debounce	2
+../Core/Src/main.c:96:6:check_and_transmit_key	6
+../Core/Src/main.c:117:6:scan_column	3
+../Core/Src/main.c:145:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:156:5:main	1
+../Core/Src/main.c:202:6:SystemClock_Config	3
+../Core/Src/main.c:249:13:MX_TIM2_Init	4
+../Core/Src/main.c:294:13:MX_TIM3_Init	4
+../Core/Src/main.c:339:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:372:13:MX_GPIO_Init	1
+../Core/Src/main.c:422:6:Error_Handler	1
